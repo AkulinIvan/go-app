@@ -4,7 +4,7 @@ import (
 	"html/template"
 	"net/http"
 	"fmt"
-	"github.com/AkulinIvan/go-app/book"
+	"github.com/AkulinIvan/go-app/book/uploadFile"
 )
 
 type User struct {
